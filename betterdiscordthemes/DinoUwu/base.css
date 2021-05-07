@@ -60,7 +60,7 @@
 
 /*Part 1 start*/
 
-{
+
 :root {
   --TB-top: calc(var(--server-container) + var(--window-padding));
   --TB-tr-roundness: var(--window-roundness);
